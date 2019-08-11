@@ -25,3 +25,12 @@ console.log(1)
 
     var a = 123
     console.log(a)
+
+
+图片
+
+![我的图片](1.png)
+
+链接
+
+[点我去百度](https://www.baidu.com)
